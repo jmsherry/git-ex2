@@ -6,3 +6,7 @@ body {
 p {
   font-weight: bold;
 }
+
+.partial {
+  border: 1px solid;
+}
